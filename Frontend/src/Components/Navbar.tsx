@@ -5,7 +5,7 @@ import "./Navbar.css"
 export default function Navbar() {
   const links = [
     { name: "Home", path: "/" },
-    { name: "Learn", path: "/learn" },
+    { name: "Syllabus", path: "/syllabus" },
     { name: "Practice", path: "/practice" },
     { name: "Explore", path: "/explore" },
     { name: "About", path: "/about" },
